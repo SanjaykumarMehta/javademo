@@ -1,0 +1,15 @@
+# Dev Profile
+spring:
+    profiles: dev
+          
+pcf:
+  application: RabbitMqService
+  space: "development"
+  memory: "1024M"
+  diskQuota: "1024M"
+  instances: 1
+  organization: springboot-org
+  target:  https://api.run.pivotal.io
+  
+log:
+    level: info
