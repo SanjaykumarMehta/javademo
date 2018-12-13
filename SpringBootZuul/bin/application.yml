@@ -1,0 +1,133 @@
+# local Profile
+spring:
+    profiles: local
+
+   # application:
+    #         name: zuulserver_local    
+
+server:
+    port: ${server_port:8082}
+
+zuul:
+  prefix: /api
+  routes:
+    # zuul route mapping for the student-service
+    studentServicebyid:
+                   path: /student-service/**
+                   serviceId: consumerdemo_local
+                   strip-prefix: true
+     # zuul route mapping for the course-service
+    courseServicebyid:
+                discovery: 
+                      path: /course-service/**
+                      serviceId: COURSESERVICE_LOCAL
+                   #strip-prefix: true               
+    studentServicebyurl1:
+                   path: /departments/*/courses/*/students
+                   url: http://localhost:8752/departments
+    studentServicebyurl:
+                   path: /student-service1/**
+                   url: http://localhost:8752/
+   
+    courseServicebyurl:
+                   path: /course-service1/**
+                   url: http://localhost:7070/             
+                   
+eureka:
+   instance: 
+      preferIpAddress: true
+   client:
+      registerWithEureka: true
+      fetchRegistry: true
+      serviceUrl:
+          defaultZone: ${eureka_url:http://localhost:8761/eureka/}  
+                
+pcf:
+  application: zuulserver_local
+  space: "development"
+  memory: "256M"
+  diskQuota: "256M"
+  instances: 1
+  organization: springboot-org
+  target:  https://api.run.pivotal.io 
+  
+log:
+    level: info
+
+---
+# Dev Profile
+spring:
+    profiles: dev
+    #application:
+     #     name: zuulserver_dev
+
+server:
+    port: ${server_port:8082}
+
+zuul:
+  prefix: /api
+  routes:
+    studentServicebyid:
+                   path: /student-service/**
+                   service-id: consumerdemo_dev
+                   strip-prefix: false
+    studentServicebyurl:
+                   path: /student-service-by-address/**
+                   url: http://consumerdemo_dev:8752/
+    courseServicebyid:
+                   path: /course-service/**
+                   service-id: courseservice_dev
+                   strip-prefix: false
+    courseServicebyurl:
+                   path: /course-service-by-address/**
+                   url: http://courseservice_dev.cfapps.io/
+
+eureka:
+   instance: 
+      preferIpAddress: true
+   client:
+      registerWithEureka: true
+      fetchRegistry: true
+      serviceUrl:
+          defaultZone: ${eureka_url:http://localhost:8761/eureka/}      
+                
+pcf:
+  application: zuulserver_dev
+  space: "development"
+  memory: "256M"
+  diskQuota: "256M"
+  instances: 1
+  organization: springboot-org
+  target:  https://api.run.pivotal.io 
+  
+log:
+    level: info
+
+---
+# VST0 Profile
+spring:
+    profiles: vst0
+    #application:
+     #     name: zuulserver_vst0
+
+server:
+    port: ${server_port:8083}
+
+zuul:
+  routes:
+    consumerdemo_vst0:
+                   path: /getName
+                   service-id: consumerdemo_vst0
+                   strip-prefix: false
+
+pcf:
+  application: zuulserver_vst0
+  space: "development"
+  memory: "512M"
+  diskQuota: "512M"
+  instances: 1
+  organization: springboot-org
+  target:  https://api.run.pivotal.io
+
+log:
+    level: info

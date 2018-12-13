@@ -1,0 +1,68 @@
+# local Profile
+spring:
+    profiles: local
+    #application:
+     #    name: courseservice_local
+eureka:
+  client:
+    service-url:
+      defaultZone: ${eureka_url:http://localhost:8761/eureka/} 
+        
+server:
+    port: 7070
+                
+pcf:
+  application: courseservice_local
+  space: "development"
+  memory: "512M"
+  diskQuota: "512M"
+  instances: 1
+  organization: springboot-org
+  target:  https://api.run.pivotal.io
+    
+log:
+    level: info
+
+---
+
+# Dev Profile
+spring:
+    profiles: dev
+    #application:
+     #    name: courseservice_dev
+
+server:
+    port: ${server_port:7070}
+                
+pcf:
+  application: courseservice_dev
+  space: "development"
+  memory: "512M"
+  diskQuota: "512M"
+  instances: 1
+  organization: springboot-org
+  target:  https://api.run.pivotal.io
+  
+log:
+    level: info
+---
+
+# VST0 Profile
+spring:
+    profiles: vst0
+    #application:
+     #    name: courseservice_vsto
+server:
+    port: ${server_port:7071}
+    
+pcf:
+  application: courseservice_vsto
+  space: "development"
+  memory: "512M"
+  diskQuota: "512M"
+  instances: 1
+  organization: springboot-org
+  target:  https://api.run.pivotal.io
+
+log:
+    level: info
