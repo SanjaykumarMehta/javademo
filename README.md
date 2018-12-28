@@ -299,7 +299,7 @@ Hotkey list:
 
 # Nature
 
-| Key  Symbol |	Key  Symbol  |	Key  Symbol  |
+|  			 |    			  |  			   |
 | --- | --- | --- |
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
@@ -436,7 +436,7 @@ Hotkey list:
 #Places
 
 |  			 |    			  |  			   |
-| --- | --- |
+| --- | --- | --- |
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
 | :bank: `:bank:` | :convenience_store: `:convenience_store:` | :love_hotel: `:love_hotel:` |
@@ -477,7 +477,7 @@ Hotkey list:
 # Symbols
 
 |  			 |    			  |  			   |
-| --- | --- |
+| --- | --- | --- |
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
