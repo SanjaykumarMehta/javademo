@@ -295,8 +295,9 @@ Hotkey list:
 | :feelsgood: `:feelsgood:` | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` |
 | :godmode: `:godmode:` | :hurtrealbad: `:hurtrealbad:` | :rage1: `:rage1:` |
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
-| :suspect: `:suspect:` | :trollface: `:trollface:` | :om: `:om:` | :ok_man: `:ok_man:` | 
+| :suspect: `:suspect:` | :trollface: `:trollface:` | :om: `:om:` |
 | :ok_woman: `:ok_woman:` | :india: `:india:` | :motorcycle: `:motorcycle:` |
+| :ok_man: `:ok_man:` | :ear_of_rice: `:ear_of_rice:` | :electron: `:electron:` |
 
 # :evergreen_tree:  Nature
 
