@@ -492,8 +492,10 @@ Emoji:
 :ticket:   :fuelpump:   :vertical_traffic_light:   :traffic_light:   :warning:   :construction:   :beginner:   :atm:
 :slot_machine:   :busstop:   :barber:   :hotsprings:   :checkered_flag:   :crossed_flags:   :izakaya_lantern:
 :moyai:   :circus_tent:   :performing_arts:   :round_pushpin:   :triangular_flag_on_post:
-:india_flag:  :in_flag:  :In_flag: 
+
 :jp:   :kr:   :cn:   :us:   :fr:   :es:   :it:    :ru:    :gb:    :uk:  :de:
+
+BR   IN    :flag-for-brazil:
 
 #Symbols    
 
