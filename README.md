@@ -297,7 +297,7 @@ Hotkey list:
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-# Nature
+# :evergreen_tree:  Nature
 
 |  			 |    			  |  			   |
 | --- | --- | --- |
@@ -473,13 +473,9 @@ Hotkey list:
 | :fr: `:fr:` | :es: `:es:` | :it: `:it:` |
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` | :in: `:in:` | :🇮🇳: `:IN:`|
-| :american_samoa: `:american_samoa:` | :amphora: `:amphora:` | :algeria: `:algeria:`  |
-| :afghanistan: `:afghanistan:` | :aland_islands: `:aland_islands:` | :albania: `:albania:`  |
-| :andorra: `:andorra:` | :angola: `:angola:` | :anguilla: `:anguilla:`  |
+| :man_cartwheeling: `:man_cartwheeling:` | :amphora: `:amphora:` | :male_detective: `:male_detective:` |
+| :women_wrestling: `:women_wrestling:` | :weight_lifting_man: `:weight_lifting_man:` | :tumbler_glass: `:tumbler_glass:` |
 
-| :india: `:india:` | :iphone: `:iphone:` | :male_detective: `:male_detective:`  |
-| :argentina: `:argentina:` | :armenia: `:armenia:` | :man_cartwheeling: `:man_cartwheeling:`  |
-| :ant: `:ant:` | :antarctica: `:antarctica:` | :antigua_barbuda: `:antigua_barbuda:`  |
 
 # Symbols
 
