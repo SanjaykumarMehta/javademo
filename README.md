@@ -228,7 +228,7 @@ Hotkey list:
 
     Markup : Code appears between colons :EMOJICODE:
     
-# People
+# :squirrel: People
 |  			 |    			  |  			   |
 | --- | --- | --- |
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
@@ -341,7 +341,7 @@ Hotkey list:
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-# Objects
+## :crystal_ball: Objects
 
 |  			 |    			  |  			   |
 | --- | --- | --- |
@@ -433,7 +433,7 @@ Hotkey list:
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-#Places
+# :house:  Places
 
 |  			 |    			  |  			   |
 | --- | --- | --- |
@@ -477,7 +477,7 @@ Hotkey list:
 | :women_wrestling: `:women_wrestling:` | :weight_lifting_man: `:weight_lifting_man:` | :tumbler_glass: `:tumbler_glass:` |
 
 
-# Symbols
+# :heavy_dollar_sign: Symbols
 
 |  			 |    			  |  			   |
 | --- | --- | --- |
