@@ -50,11 +50,9 @@ appropriate Spring `ApplicationContext`
 * Convenience `ApplicationContext` initializers, including support for sensible logging
 defaults
 
-```
-|----------------------------------------------------|
-TIP: The generated documentation is available from ``
-|----------------------------------------------------|
-```
+
+| TIP: The generated documentation is available from ``| 
+
 
 
 
@@ -232,7 +230,7 @@ Emoji:
     
 #People
     
-:bowtie:            :smile:            :simple_smile:            :laughing:            :blush:                   :smiley:
+:bowtie:            :smile:        :laughing:            :blush:                   :smiley:
 :relaxed:           :smirk:            :heart_eyes:              :kissing_heart:       :kissing_closed_eyes:     :flushed:
 :relieved:  :satisfied:  :grin:  :wink:   :stuck_out_tongue_winking_eye:  :stuck_out_tongue_closed_eyes:   :grinning: :kissing:
 :kissing_smiling_eyes:   :stuck_out_tongue:  :sleeping:  :worried:  :frowning:  :anguished:  :open_mouth:   :grimacing:   :confused:
@@ -310,7 +308,7 @@ Emoji:
 :ok_woman:
 :no_good:
 :information_desk_person:   :raising_hand:   :bride_with_veil:   :person_with_pouting_face:   :person_frowning:   :bow:
-:couplekiss:   :couple_with_heart:
+:couplekiss:  :couple_kiss: :simple_smile:      :couple_with_heart:
 :massage:   :haircut:   :nail_care:   :boy:   :woman:  :girl:  :woman:   :man:   :baby:   :older_woman:   :older_man:
 :person_with_blond_hair:   :man_with_gua_pi_mao:   :man_with_turban:   :construction_worker:   :cop:   :angel:   :princess:   :smiley_cat:   :smile_cat:   :heart_eyes_cat:   :kissing_cat:   :smirk_cat:   :scream_cat:   :crying_cat_face:
 :joy_cat:   :pouting_cat:   :japanese_ogre:   :japanese_goblin:   :see_no_evil:   :hear_no_evil:   :speak_no_evil:
@@ -494,7 +492,7 @@ Emoji:
 :ticket:   :fuelpump:   :vertical_traffic_light:   :traffic_light:   :warning:   :construction:   :beginner:   :atm:
 :slot_machine:   :busstop:   :barber:   :hotsprings:   :checkered_flag:   :crossed_flags:   :izakaya_lantern:
 :moyai:   :circus_tent:   :performing_arts:   :round_pushpin:   :triangular_flag_on_post:
-
+:in:  :IN:  :jp:  :JP:
 :jp:   :kr:   :cn:   :us:   :fr:   :es:   :it:    :ru:    :gb:    :uk:  :de:
 
 #Symbols    
