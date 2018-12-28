@@ -34,7 +34,7 @@ so that new and existing users can quickly get to the bits they need.
 	}
 ```
 
-== Modules
+# Modules 
 overview:
 
 
@@ -51,7 +51,9 @@ appropriate Spring `ApplicationContext`
 defaults
 
 ```
+|----------------------------------------------------|
 TIP: The generated documentation is available from ``
+|----------------------------------------------------|
 ```
 
 
@@ -105,10 +107,7 @@ __Strong text__
 ___Strong emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
-
-[Named Link](http://www.google.fr/) and http://www.google.fr/ or <http://xyz.com/>
-
-    Markup :  [Named Link](http://www.google.fr/) and http://www.google.fr/ or <http://xyz.com/>
+   
 
 Table, like this one :
 
@@ -177,8 +176,6 @@ _Image with alt :_
 
 ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 
-    Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
-
 Foldable text:
 
 <details>
@@ -233,7 +230,8 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
     
-    People
+#People
+    
 :bowtie:            :smile:            :simple_smile:            :laughing:            :blush:                   :smiley:
 :relaxed:           :smirk:            :heart_eyes:              :kissing_heart:       :kissing_closed_eyes:     :flushed:
 :relieved:  :satisfied:  :grin:  :wink:   :stuck_out_tongue_winking_eye:  :stuck_out_tongue_closed_eyes:   :grinning: :kissing:
@@ -311,7 +309,8 @@ Emoji:
 :dancers:
 :ok_woman:
 :no_good:
-:information_desk_person:   :raising_hand:   :bride_with_veil:   :person_with_pouting_face:   :person_frowning:   :bow:   :couplekiss:   :couple_with_heart:
+:information_desk_person:   :raising_hand:   :bride_with_veil:   :person_with_pouting_face:   :person_frowning:   :bow:
+:couplekiss:   :couple_with_heart:
 :massage:   :haircut:   :nail_care:   :boy:   :woman:  :girl:  :woman:   :man:   :baby:   :older_woman:   :older_man:
 :person_with_blond_hair:   :man_with_gua_pi_mao:   :man_with_turban:   :construction_worker:   :cop:   :angel:   :princess:   :smiley_cat:   :smile_cat:   :heart_eyes_cat:   :kissing_cat:   :smirk_cat:   :scream_cat:   :crying_cat_face:
 :joy_cat:   :pouting_cat:   :japanese_ogre:   :japanese_goblin:   :see_no_evil:   :hear_no_evil:   :speak_no_evil:
@@ -321,6 +320,7 @@ Emoji:
 
 
 #Nature
+
 :sunny:   :umbrella:   :cloud:  :snowflake:   :snowman:  :zap:   :cyclone:   :foggy:  :ocean:   :cat:   :dog:   :mouse:  :hamster:
 :rabbit:  :wolf:  :frog:  :tiger:  :koala:  :bear:  :pig:  :pig_nose:  :cow:  :boar: :monkey_face:  :monkey:   :horse:   :racehorse:
 :camel:   :sheep:   :elephant:   :panda_face:   :snake:   :bird:   :baby_chick:   :hatched_chick:   :hatching_chick:   :chicken:
@@ -355,7 +355,9 @@ Emoji:
 :partly_sunny:
 :octocat:
 :squirrel:
-Objects
+
+# Objects
+
 :bamboo:
 :gift_heart:
 :dolls:
@@ -478,6 +480,7 @@ Objects
 :shaved_ice:   :birthday:   :cake:   :cookie:   :chocolate_bar:   :candy:   :lollipop:   :honey_pot:   :apple:   :green_apple:   :tangerine:   :lemon:   :cherries:   :grapes:   :watermelon:   :strawberry:   :peach:   :melon:   :banana:   :pear:   :pineapple:   :sweet_potato:   :eggplant:   :tomato:   :corn:
 
 #Places
+
 :house: :house_with_garden:   :school:   :office:   :post_office:   :hospital:   :bank:   :convenience_store:
 :love_hotel:   :hotel:   :wedding:   :church:   :department_store:   :european_post_office:   :city_sunrise:
 :city_sunset:   :japanese_castle:   :european_castle:   :tent:   :factory:   :tokyo_tower:   :japan:   :mount_fuji:
@@ -491,9 +494,11 @@ Objects
 :ticket:   :fuelpump:   :vertical_traffic_light:   :traffic_light:   :warning:   :construction:   :beginner:   :atm:
 :slot_machine:   :busstop:   :barber:   :hotsprings:   :checkered_flag:   :crossed_flags:   :izakaya_lantern:
 :moyai:   :circus_tent:   :performing_arts:   :round_pushpin:   :triangular_flag_on_post:
-:jp:    :kr:  :cn:  :us:  :fr:   :es:  :it:  :ru:    :gb:    :uk:    :de:
+
+:jp:   :kr:   :cn:   :us:   :fr:   :es:   :it:    :ru:    :gb:    :uk:  :de:
 
 #Symbols    
+
 :one:    :two:    :three:    :four:    :five:        :six:    :seven:    :eight:    :nine:    :keycap_ten:    :1234:
 :zero:    :hash:     :symbols:    :arrow_backward:    :arrow_down:    :arrow_forward:    :arrow_left:    :capital_abcd:
 :abcd:    :abc:     :arrow_lower_left:    :arrow_lower_right:     :arrow_right:    :arrow_up:
@@ -502,7 +507,7 @@ Objects
 :arrow_right_hook:    :left_right_arrow:  :arrow_up_down:
 :arrow_up_small:    :arrows_clockwise:    :information_source:     
 :arrows_counterclockwise:  :information_source:           :rewind:  :fast_forward:   :information_source:     :ok:
-:twisted_rightwards_arrows:      :repeat:    :repeat_on:    :new:   :top:     :up:  :cool:     :free:
+:twisted_rightwards_arrows:      :repeat:    :repeat_one:    :new:   :top:     :up:  :cool:     :free:
 :ng:     :cinema:  :koko:     :signal_strength:
 :u5272:     :u5408:  :u55b6:     :u6307:    :u6708:     :u6709:  :u6e80:     :u7121:
 :u7533:     :u7a7a:  :u7981:     :sa:  :restroom:     :mens:  :womens:     :baby_symbol:
