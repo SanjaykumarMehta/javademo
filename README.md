@@ -222,7 +222,7 @@ Hotkey list:
 | Left | ← |
 | Right | → |
 
-# Emoji:
+## :watermelon: All github Emoji (Emoticon) 
 
 :exclamation: Use emoji icons to enhance text. :+1:  
 
@@ -472,7 +472,14 @@ Hotkey list:
 | :kr: `:kr:` | :cn: `:cn:` | :us: `:us:` |
 | :fr: `:fr:` | :es: `:es:` | :it: `:it:` |
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
-| :de: `:de:` | :in: `:in:` |
+| :de: `:de:` | :in: `:in:` | :🇮🇳: `:IN:`|
+| :american_samoa: `:american_samoa:` | :amphora: `:amphora:` | :algeria: `:algeria:`  |
+| :afghanistan: `:afghanistan:` | :aland_islands: `:aland_islands:` | :albania: `:albania:`  |
+| :andorra: `:andorra:` | :angola: `:angola:` | :anguilla: `:anguilla:`  |
+
+| :india: `:india:` | :iphone: `:iphone:` | :male_detective: `:male_detective:`  |
+| :argentina: `:argentina:` | :armenia: `:armenia:` | :man_cartwheeling: `:man_cartwheeling:`  |
+| :ant: `:ant:` | :antarctica: `:antarctica:` | :antigua_barbuda: `:antigua_barbuda:`  |
 
 # Symbols
 
