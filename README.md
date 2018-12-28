@@ -230,7 +230,7 @@ Hotkey list:
     
 # People
 |  			 |    			  |  			   |
-| --- | --- |
+| --- | --- | --- |
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
@@ -299,8 +299,8 @@ Hotkey list:
 
 # Nature
 
-|  			 |    			  |  			   |
-| --- | --- |
+| Key  Symbol |	Key  Symbol  |	Key  Symbol  |
+| --- | --- | --- |
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
