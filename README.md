@@ -230,6 +230,7 @@ Hotkey list:
     
 # People
 |  			 |    			  |  			   |
+| --- | --- |
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
@@ -299,6 +300,7 @@ Hotkey list:
 # Nature
 
 |  			 |    			  |  			   |
+| --- | --- |
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
@@ -342,6 +344,7 @@ Hotkey list:
 # Objects
 
 |  			 |    			  |  			   |
+| --- | --- |
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
 | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :wind_chime: `:wind_chime:` |
@@ -433,6 +436,7 @@ Hotkey list:
 #Places
 
 |  			 |    			  |  			   |
+| --- | --- |
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
 | :bank: `:bank:` | :convenience_store: `:convenience_store:` | :love_hotel: `:love_hotel:` |
@@ -473,6 +477,7 @@ Hotkey list:
 # Symbols
 
 |  			 |    			  |  			   |
+| --- | --- |
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
