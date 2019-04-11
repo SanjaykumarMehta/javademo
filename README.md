@@ -63,7 +63,7 @@ Markdown Cheatsheet
 
 # Heading 1 #
 
-    Markup :  # Heading 1 #
+     **Markup** :  # Heading 1 #
 
     -OR-
 
