@@ -11,9 +11,9 @@
 Spring Boot makes it easy to create Spring-powered, production-grade applications and
 services with absolute minimum fuss. It takes an opinionated view of the Spring platform
 so that new and existing users can quickly get to the bits they need.
-**TIP:** The generated documentation is available.
-**Name:** The generated documentation is available.
-**Value:** The generated documentation is available.
+**TIP:** The generated documentation is available <br>
+**Name:** The generated documentation is available <br>
+**Value:** The generated documentation is available <br>
 
 
 
