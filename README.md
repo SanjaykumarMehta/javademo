@@ -63,7 +63,7 @@ Markdown Cheatsheet
 
 # Heading 1 #
 
-     **Markup** :  # Heading 1 #
+     `Markup` :  # Heading 1 #
 
     -OR-
 
@@ -88,7 +88,7 @@ Markdown Cheatsheet
 
 Common text
 
-    Markup :  Common text
+    `Markup` :  Common text
 
 _Emphasized text_
 
