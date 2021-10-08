@@ -1,0 +1,26 @@
+server:
+    port: 8224
+    
+spring:
+    application:
+        name: contoso-gaming-platfrom
+    main:
+      allow-bean-definition-overriding: true
+    mvc:
+        favicon:
+            enabled: false
+
+management:
+    endpoints:
+        web:
+            base-path: /management
+            exposure:
+                include: ["configprops", "env", "health", "info", "threaddump", "logfile" ]
+    endpoint:
+        health:
+            show-details: when-authorized
+    info:
+        git:
+            mode: full
+    metrics:
+        enabled: false
